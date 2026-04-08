@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto de Assistente por Voz com OpenAI
 
 Projeto simples de assistente por voz em português:
