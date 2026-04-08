@@ -35,7 +35,3 @@ OPENAI_API_KEY=sua_chave_aqui
 - salvar histórico em JSON para facilitar análise futura;
 - criar modo CLI e modo interface web simples;
 - adicionar testes para funções isoladas.
-=======
-# openaAI_project
-Este é só o rascunho - Em construção
->>>>>>> f80d59c3c003bf6fefc62ba5ab82257e59fb61e9
